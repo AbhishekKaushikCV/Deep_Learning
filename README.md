@@ -1,4 +1,4 @@
-# Deep_Learning_Assignments (On TensorFlow)
+# Deep_Learning_Assignments (TensorFlow)
 
 1. Simple_Regression
 
