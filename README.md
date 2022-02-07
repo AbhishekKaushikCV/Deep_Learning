@@ -1,5 +1,4 @@
-# Deep_Learning (TensorFlow)
-### Content :
+# Deep_Learning (TensorFlow):
 
 1. Simple_Regression
 
